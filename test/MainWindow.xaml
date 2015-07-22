@@ -382,7 +382,7 @@
 					</RadialGradientBrush>
 				</Ellipse.Stroke>
 			</Ellipse>
-			<ed:Callout AnchorPoint="0.047,1.357" CalloutStyle="RoundedRectangle" Content="안녕 친구야^^" Fill="White" FontSize="33.333" HorizontalAlignment="Left" Height="42" Margin="148,7.5,0,0" Stroke="Black" VerticalAlignment="Top" Width="235" FontFamily="THELeft"/>
+			<ed:Callout AnchorPoint="0.047,1.357" CalloutStyle="RoundedRectangle" Content="안녕 친구야ggggg" Fill="White" FontSize="33.333" HorizontalAlignment="Left" Height="42" Margin="148,7.5,0,0" Stroke="Black" VerticalAlignment="Top" Width="235" FontFamily="THELeft"/>
 		</Grid>
 		<DockPanel Margin="749.5,110.5,34.5,599.5">
 			<Button x:Name="btn_position" HorizontalAlignment="Left" Height="60" VerticalAlignment="Top" Width="100" Style="{DynamicResource btn_position}" Content="btn_position" Click="btn_position_Click"/>
