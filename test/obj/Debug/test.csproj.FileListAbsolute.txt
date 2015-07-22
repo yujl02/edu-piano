@@ -34,3 +34,39 @@ C:\Users\yoo\Documents\Visual Studio 2013\Projects\test\test\obj\Debug\bar.g.cs
 C:\Users\yoo\Documents\Visual Studio 2013\Projects\test\test\obj\Debug\line.g.cs
 C:\Users\yoo\Documents\Visual Studio 2013\Projects\test\test\obj\Debug\song.g.cs
 C:\Users\yoo\Documents\Visual Studio 2013\Projects\test\test\obj\Debug\time.g.cs
+C:\Users\yoo\Desktop\edu-piano\test\bin\Debug\test.exe.config
+C:\Users\yoo\Desktop\edu-piano\test\obj\Debug\test.exe
+C:\Users\yoo\Desktop\edu-piano\test\obj\Debug\test.pdb
+C:\Users\yoo\Desktop\edu-piano\test\bin\Debug\test.exe
+C:\Users\yoo\Desktop\edu-piano\test\bin\Debug\test.pdb
+C:\Users\yoo\Desktop\edu-piano\test\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\yoo\Desktop\edu-piano\test\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\yoo\Desktop\edu-piano\test\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\yoo\Desktop\edu-piano\test\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\yoo\Desktop\edu-piano\test\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\yoo\Desktop\edu-piano\test\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\yoo\Desktop\edu-piano\test\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\yoo\Desktop\edu-piano\test\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\yoo\Desktop\edu-piano\test\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\yoo\Desktop\edu-piano\test\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\yoo\Desktop\edu-piano\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\yoo\Desktop\edu-piano\test\obj\Debug\bar.baml
+C:\Users\yoo\Desktop\edu-piano\test\obj\Debug\line.baml
+C:\Users\yoo\Desktop\edu-piano\test\obj\Debug\UI\MainWindow\MainWindow.baml
+C:\Users\yoo\Desktop\edu-piano\test\obj\Debug\position.baml
+C:\Users\yoo\Desktop\edu-piano\test\obj\Debug\Simple Styles.baml
+C:\Users\yoo\Desktop\edu-piano\test\obj\Debug\song.baml
+C:\Users\yoo\Desktop\edu-piano\test\obj\Debug\time.baml
+C:\Users\yoo\Desktop\edu-piano\test\obj\Debug\App.baml
+C:\Users\yoo\Desktop\edu-piano\test\obj\Debug\bar.g.cs
+C:\Users\yoo\Desktop\edu-piano\test\obj\Debug\line.g.cs
+C:\Users\yoo\Desktop\edu-piano\test\obj\Debug\UI\MainWindow\MainWindow.g.cs
+C:\Users\yoo\Desktop\edu-piano\test\obj\Debug\position.g.cs
+C:\Users\yoo\Desktop\edu-piano\test\obj\Debug\song.g.cs
+C:\Users\yoo\Desktop\edu-piano\test\obj\Debug\time.g.cs
+C:\Users\yoo\Desktop\edu-piano\test\obj\Debug\App.g.cs
+C:\Users\yoo\Desktop\edu-piano\test\obj\Debug\test_MarkupCompile.cache
+C:\Users\yoo\Desktop\edu-piano\test\obj\Debug\test.g.resources
+C:\Users\yoo\Desktop\edu-piano\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\yoo\Desktop\edu-piano\test\obj\Debug\test.csproj.GenerateResource.Cache
+C:\Users\yoo\Desktop\edu-piano\test\bin\Debug\back.png
