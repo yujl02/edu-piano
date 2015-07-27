@@ -5,7 +5,6 @@ using System.Data;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
-
 namespace test
 {
     /// <summary>
@@ -16,8 +15,8 @@ namespace test
         protected override void OnStartup(StartupEventArgs e)
         {
             base.OnStartup(e);
-            MainWindow window = new MainWindow();
-            window.Show();
+            MainWindow Main = new MainWindow();
+            Main.Show();
         }
     }
 }

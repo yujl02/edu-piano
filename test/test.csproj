@@ -56,21 +56,22 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="song.xaml.cs">
+    <Compile Include="Engine\MyEngine.cs" />
+    <Compile Include="UI\Child\song.xaml.cs">
       <DependentUpon>song.xaml</DependentUpon>
     </Compile>
-    <Compile Include="time.xaml.cs">
+    <Compile Include="UI\Child\time.xaml.cs">
       <DependentUpon>time.xaml</DependentUpon>
     </Compile>
-    <Page Include="bar.xaml">
+    <Page Include="UI\Child\bar.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Page Include="line.xaml">
+    <Page Include="UI\Child\line.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Page Include="UI\MainWindow\MainWindow.xaml">
+    <Page Include="UI\Main\MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
@@ -78,17 +79,17 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="bar.xaml.cs">
+    <Compile Include="UI\Child\bar.xaml.cs">
       <DependentUpon>bar.xaml</DependentUpon>
     </Compile>
-    <Compile Include="line.xaml.cs">
+    <Compile Include="UI\Child\line.xaml.cs">
       <DependentUpon>line.xaml</DependentUpon>
     </Compile>
-    <Compile Include="UI\MainWindow\MainWindow.xaml.cs">
+    <Compile Include="UI\Main\MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Page Include="position.xaml">
+    <Page Include="UI\Child\position.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
@@ -96,17 +97,17 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Page Include="song.xaml">
+    <Page Include="UI\Child\song.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Page Include="time.xaml">
+    <Page Include="UI\Child\time.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="position.xaml.cs">
+    <Compile Include="UI\Child\position.xaml.cs">
       <DependentUpon>position.xaml</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs">
@@ -144,8 +145,9 @@
     <Resource Include="pororo1.jpg" />
     <Resource Include="pororo2.jpg" />
   </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
-    <Resource Include="UI\MainWindow\pororo2.jpg" />
+    <Resource Include="UI\Main\pororo2.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
